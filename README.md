@@ -1,4 +1,4 @@
- ## Halo, Saya [Npswara](https://github.com/Npswara) (Narayana Parameswara)👋
+ ## Halo, Saya [Npswara](https://www.instagram.com/igdnara_?igsh=MW9mNXJoaTg5dDhyeg==) (Narayana Parameswara)👋
 
 ## Statistik GitHub
 
