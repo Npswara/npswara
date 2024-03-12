@@ -1,6 +1,6 @@
- ## Halo, Saya [Nara! :)](https://www.instagram.com/igdnara_?igsh=MW9mNXJoaTg5dDhyeg==) 👋
+ ## Halo, Saya [Nara](https://www.instagram.com/igdnara_?igsh=MW9mNXJoaTg5dDhyeg==)!! :)👋
 
-## Statistik GitHub
+ Statistik GitHub
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Npswara&show_icons=true)
 
