@@ -4,7 +4,7 @@
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Npswara&show_icons=true)
 
-Berikut adalah beberapa proyek yang saya bangun atau yang saya kontribusikan:
+Berikut adalah beberapa proyek yang saya bangun :
 
 - [GSP](https://github.com/Npswara/Guardian-Smartphone)
 
