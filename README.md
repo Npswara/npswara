@@ -1,9 +1,5 @@
  ## Halo !
 
- Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Npswara&show_icons=true)
-
 Highlight Project :
 
 - [GSP](https://github.com/Npswara/Guardian-Smartphone)
