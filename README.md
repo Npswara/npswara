@@ -1,5 +1,5 @@
  ## Halo !
-Saya [ I Gede Narayana Parameswara ] (https://www.instagram.com/igdnara_?igsh=MW9mNXJoaTg5dDhyeg==)
+Saya [Gede-Nara] (https://www.instagram.com/igdnara_?igsh=MW9mNXJoaTg5dDhyeg==)
 
 Highlight Project :
 
