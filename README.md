@@ -1,6 +1,6 @@
  ## Halo !
 Saya [I Gede Narayana Parameswara](https://www.instagram.com/igdnara_?igsh=MW9mNXJoaTg5dDhyeg==).
-Saya adalah murid SMA yang hobi ngoding.
+ <br> Saya adalah murid SMA yang hobi ngoding.
 
 Highlight Project :
 
