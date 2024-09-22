@@ -1,4 +1,4 @@
-<h1 align="left"> Halo ! saya Nara !  </h1>
+<h1 align="left"> Halo ! 👋  </h1>
 <h6> Website, Arduino, App, and Ai Enthusiast </h6>
 
 ### Project Unggulan :
@@ -10,4 +10,4 @@
 - [Erine WhatsApp Bot](https://github.com/Npswara/ErineWABot) | Artificial Intelligent 🤖
   <h6> Bot/Ai yang terintegrasi dengan WhatsApp</h6>
   
-## test
+### Get In Touch 
