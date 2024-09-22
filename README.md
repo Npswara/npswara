@@ -10,7 +10,7 @@ console.log("Hello World !")
 - [GSP](https://github.com/Npswara/Guardian-Smartphone) | Guardian Smartphone 📱
   <h6> Alat yang dirancang untuk membatasi <br> penggunaan hp pengguna</h6>
 - [SWS](https://github.com/Npswara/Smart-Watering-System) | Smart Watering System 🌳
-  <h6> Alat yang dirancang untuk mengendalikan saluran air/keran <br> yang dimana dapat alat ini juga dapat <br> menentukan kapan air tersebut hidup maupun mati</h6>
+  <h6> Alat yang dirancang untuk mengendalikan saluran air/keran <br> yang dimana alat ini juga dapat <br> menentukan kapan air tersebut hidup maupun mati</h6>
 - [Erine WhatsApp Bot](https://github.com/Npswara/ErineWABot) | Artificial Intelligent 🤖
   <h6> Bot/Ai yang terintegrasi dengan WhatsApp</h6>
   
