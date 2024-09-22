@@ -1,4 +1,4 @@
-<h1 align="center"> Halo !
+<h1 align="right"> Halo !
 
 ### Project Unggulan :
 
