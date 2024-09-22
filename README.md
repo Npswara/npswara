@@ -1,4 +1,5 @@
-<h1 align="left"> Halo !
+<h1 align="left"> Halo ! </h1>
+<h6> Web, arduino, app, and ai enthusiast </h6>
 
 ### Project Unggulan :
 
