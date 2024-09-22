@@ -15,7 +15,7 @@ console.log("Hello World !")
   <h6> Bot/Ai yang terintegrasi dengan WhatsApp</h6>
   
 ### Skills :
-<h6> beberapa bahasa tools / bahasa yang "cukup" dikuasai </h6> 
+<h6> beberapa tools / bahasa yang "cukup" dikuasai </h6> 
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,javascript,arduino,c)
 
