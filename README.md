@@ -1,9 +1,6 @@
 <h1 align="left"> Halo ! 👋  </h1>
-<h6> Website, Arduino, App, and Ai Enthusiast </h6>
 
-```javascript
-console.log("Hello World !")
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=04A1F7&background=2800FF00&center=true&width=435&lines=SMAN+1+Denpasar+Student;Newbie+Programmer;App%2C+Web+And+Arduino+Enthusiast)](https://git.io/typing-svg)
 
 ### Project Unggulan :
 
