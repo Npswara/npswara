@@ -14,5 +14,5 @@
 ### Skills :
 <h6> beberapa tools dan bahasa yang "cukup" dikuasai </h6> 
 
-![My Skills](https://skillicons.dev/icons?i=cpp,javascript,arduino,c)
+![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,arduino,c)
 
