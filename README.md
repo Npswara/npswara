@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fnpswara&label=visitors&labelColor=%232ccce4&countColor=%23263759&style=flat)
 <!--
 **Npswara/npswara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
