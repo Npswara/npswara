@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fnpswara&label=visitors&labelColor=%232ccce4&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fnpswara&label=visitors&labelColor=%232ccce4&countColor=%23263759&style=flat) <br>
+![npswara's Stats](https://github-readme-stats.vercel.app/api?username=npswara&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 <!--
 **Npswara/npswara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
